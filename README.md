@@ -18,7 +18,8 @@ A fun and modern dog dating website built with Bootstrap and vanilla CSS. TinDog
 
 ## 📸 Screenshots
 
-![TinDog Homepage](images/screenshot.png) *(Add your screenshot here)*
+![TinDog Homepage](images/tindog-1.png)
+![TinDog Homepage](images/tindog-2.png)*(Add your screenshot here)*
 
 ## 🏗️ Built With
 
